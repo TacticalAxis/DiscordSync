@@ -1,0 +1,11 @@
+name: DiscordSync
+main: io.github.tacticalaxis.discordsync.DiscordSync
+version: 1.0
+description: A plugin that syncs chat with Discord
+author: NathanD256
+prefix: DS
+api-version: 1.16
+commands:
+  ds:
+    description: Command to reload the plugin
+    usage: /<command>

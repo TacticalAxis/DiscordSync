@@ -1,0 +1,13 @@
+# paste webhooks of channels of the servers here
+# webhooks look like https://discord.com/api/webhooks/<somenumber>/<somerandomstring>
+# literally put as many hooks as you want
+webhooks:
+  - hook1
+  - hook2
+  - hook3
+# your bot token goes here
+bot-token: ""
+# set this to your server name
+server-name: "MCServerName"
+# do %name% for Discord Username, %msg% for Discord Message
+server-message: "&f&l[&9&lDiscord&f&l]&r &f%name% &8&l> %msg%"
